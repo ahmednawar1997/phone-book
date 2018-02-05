@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1481493782 source:e:\ahmed\documents\codeblocks workspace\finalproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1481617689 source:c:\users\nawar\documents\codeblocksworkspace\finalproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1482077624 source:e:\ahmed\documents\codeblocks workspace\finalproject2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
